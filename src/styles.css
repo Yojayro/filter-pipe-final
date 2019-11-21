@@ -1,0 +1,15 @@
+.navbar-collapse collapse{
+    border-radius: 10px;
+}
+#body{
+    background-color: aqua;
+
+
+}
+.container{
+	width: 50%;
+	margin: 0 auto;
+}
+img{
+	max-width: 100%;
+}
